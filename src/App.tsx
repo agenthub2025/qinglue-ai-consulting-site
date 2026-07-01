@@ -502,7 +502,7 @@ function App() {
         <section className="hero-section" aria-labelledby="hero-title">
           <img
             className="hero-image"
-            src="/assets/qinglue-ai-strategy-hero.png"
+            src={`${import.meta.env.BASE_URL}assets/qinglue-ai-strategy-hero.png`}
             alt=""
             aria-hidden="true"
           />
