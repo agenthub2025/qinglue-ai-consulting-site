@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+qinglue-desktop-*.png
+qinglue-mobile-*.png
+.playwright-mcp/
+task_plan.md
+findings.md
+progress.md
